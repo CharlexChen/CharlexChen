@@ -3,16 +3,12 @@
 
 I hope to develop a product for everyone in their life!
 
-<p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
-<p></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact"/>
 <ul>
   <li><p></p><img src="https://img.shields.io/github/followers/CharlexChen?style=social"/></li>
   <li><p></p><img src="https://img.shields.io/github/stars/CharlexChen?style=social"/></li>
 </ul>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
