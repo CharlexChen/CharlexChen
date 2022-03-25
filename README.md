@@ -12,7 +12,7 @@ I hope to develop a product for everyone in their life!
   <li><p></p><img src="https://img.shields.io/github/stars/CharlexChen?style=social"/></li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact&theme=tokyonight&show_icons=true&count_private=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact&theme=tokyonight&show_icons=true&count_private=true"/>
 
 
 <!--
