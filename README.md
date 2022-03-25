@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github Page
-<div style="position: relative;">
+<div style="position: relative;margin-bottom: 10px">
 I hope to develop a product for everyone in their life!
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
