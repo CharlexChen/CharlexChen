@@ -1,7 +1,15 @@
 ### Hi there 👋
-I like it!
+### Welcome to my Github Page
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlexChen)](https://github.com/anuraghazra/github-readme-stats)
+I hope to develop a product for everyone in their life!
+
+<p></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
+<p></p>
+<ul>
+  <li><p></p><img src="https://img.shields.io/github/followers/CharlexChen?style=social"/></li>
+  <li><p></p><img src="https://img.shields.io/github/stars/CharlexChen?style=social"/></li>
+</ul>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
