@@ -7,7 +7,12 @@ I hope to develop a product for everyone in their life!
   
 </div>
 
+<p></p>
+
 <ul>
+  <li>I am working in Tencent/WXG/OpenSourcePlatform!</li>
+  <li>I keep studying!</li>
+  <li>I am interesting in UI/LowCode/Compile/Optimization/Framework</li>
   <li><img src="https://img.shields.io/github/followers/CharlexChen?style=social"/></li>
   <li><img src="https://img.shields.io/github/stars/CharlexChen?style=social"/></li>
 </ul>
