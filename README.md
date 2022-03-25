@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### Welcome to my Github Page
-
+<div style="position: relative;">
 I hope to develop a product for everyone in their life!
 <img style="position: absolute; right: 5px; top: 0px" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
 <img style="position: absolute; right: 5px; top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact&theme=tokyonight&show_icons=true&count_private=true"/>
 <p></p>
+</div>
 
 <ul>
   <li><p></p><img src="https://img.shields.io/github/followers/CharlexChen?style=social"/></li>
