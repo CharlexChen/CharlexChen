@@ -2,8 +2,8 @@
 ### Welcome to my Github Page
 
 I hope to develop a product for everyone in their life!
-<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
-<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact&theme=tokyonight&show_icons=true&count_private=true"/>
+<img style="position: absolute; right: 5px; top: 0px" src="https://github-readme-stats.vercel.app/api?username=CharlexChen&theme=tokyonight&show_icons=true&count_private=true"/>
+<img style="position: absolute; right: 5px; top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlexChen&layout=compact&theme=tokyonight&show_icons=true&count_private=true"/>
 <p></p>
 
 <ul>
